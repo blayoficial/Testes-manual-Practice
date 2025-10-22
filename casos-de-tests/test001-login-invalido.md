@@ -19,7 +19,8 @@ Resultado esperado:
 Resultado observado:
 mensagem de erro "Your username or password is invalid!"
 
-Evidências:
+Evidências:![Mensagem de erro exibida ao tentar login com senha inválida](<img width="725" height="388" alt="evidencia de login  invalido" src="https://github.com/user-attachments/assets/aed3556e-0ba8-40bb-8691-d546e452745f" />
+)
 
 Status:
 passou
