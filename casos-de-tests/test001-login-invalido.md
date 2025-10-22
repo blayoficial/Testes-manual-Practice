@@ -1,4 +1,4 @@
-ID: CT-002
+ID: CT-001
 Título: Login com senha inválida
 
 Pré-condições:
@@ -20,7 +20,6 @@ Resultado observado:
 mensagem de erro "Your username or password is invalid!"
 
 Evidências:
-casos-de-test/screenshots/evidencia test001.png
 
 Status:
 passou
