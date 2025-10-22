@@ -20,7 +20,8 @@ Resultado observado:
 
 
 Evidências:
-- 
+
+<img width="751" height="327" alt="bug botao preto" src="https://github.com/user-attachments/assets/f35768cc-c728-4cbe-a8b9-d27cb2d4d679" />
 
 
 Status: Aberto
