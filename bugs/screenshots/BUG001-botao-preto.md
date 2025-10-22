@@ -15,6 +15,6 @@ O botão aparece completamente preto, sem texto visível, dificultando a identif
 Severidade: Minor/MENOR  
 Prioridade: P2/MEDIA 
 
-Evidências: bugs/screenshots/BUG001-botao-preto.png  
+Evidências:![Botão "Enviar" aparece totalmente preto no formulário de login](bugs/screenshots/BUG001-botao-preto.png)
 
 Status: Aberto  
