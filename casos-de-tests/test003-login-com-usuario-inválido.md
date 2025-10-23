@@ -3,8 +3,8 @@ Título: Login com usuario inválido
 
 Pré-condições:
 - O site https://practicetestautomation.com/practice/ está aberto
-- Usuário de teste cadastrado: "studentERRO"
-- Senha incorreta: "Password123"
+- Usuário incorreto: "studentERRO"
+- Senha correta: "Password123"
 
 Passos:
 1. Digitar usuário "studentERRO" no campo de login
@@ -21,7 +21,6 @@ mensagem de erro "Your username is invalid!"
 
 Evidências:
 
-<img width="945" height="412" alt="userinvalido" src="https://github.com/user-attachments/assets/c6d42b48-91ba-4b40-be54-b400aec42128" />
 
 
 
