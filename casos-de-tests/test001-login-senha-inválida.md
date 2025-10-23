@@ -27,3 +27,5 @@ Evidências:
 
 Status:
 passou
+
+Observação: Ao ocorrer erro de login, os campos de usuário e senha não precisam ser limpos, mantendo os valores digitados pelo usuário para facilitar correção
