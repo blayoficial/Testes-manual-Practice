@@ -3,7 +3,7 @@ Título: Login com sucesso
 
 Pré-condições: 
 - O site https://practicetestautomation.com/practice/ 
-  está aberto 
+está aberto 
 - Usuário de teste cadastrado: "student" 
 - Senha correta: "Password123" 
 
@@ -18,7 +18,7 @@ Resultado esperado:
 - Usuário deve está nessa url:https://practicetestautomation.com/logged-in-successfully/ 
 
 Resultado observado:
- mensagem de sucesso ""Congratulations student. You successfully logged in!"
+- mensagem de sucesso ""Congratulations student. You successfully logged in!"
  
 Evidências:
 
