@@ -24,5 +24,8 @@ Evidências:
 
 <img width="927" height="461" alt="user espaco" src="https://github.com/user-attachments/assets/70dec6a7-a4f1-4cc9-9ea9-ea5fea7578d8" />
 
+
+status:passou
+
 Observação:
 - Seria interessante exibir um aviso específico para espaços indevidos ou impedir a digitação de espaços no campo de usuário, para melhorar a experiência do usuário.

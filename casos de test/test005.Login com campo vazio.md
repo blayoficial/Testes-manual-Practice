@@ -23,4 +23,6 @@ Evidências:
 
 <img width="793" height="392" alt="005" src="https://github.com/user-attachments/assets/1ae199d3-a9be-4a29-bc46-8e7b23cf68ef" />
 
+status:passou
+
 Observacão;Seria interessante ter uma mensagem especifica para esse tipo de erro tipo"voce esqueceu de preencher a sua senha"
