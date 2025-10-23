@@ -21,6 +21,7 @@ mensagem de erro "Your username is invalid!"
 
 Evidências:
 
+<img width="945" height="412" alt="userinvalido" src="https://github.com/user-attachments/assets/c6d42b48-91ba-4b40-be54-b400aec42128" />
 
 
 
