@@ -22,5 +22,6 @@ Resultado observado:
  
  Evidências: 
  
- 
+ <img width="945" height="412" alt="userinvalido" src="https://github.com/user-attachments/assets/a5dbe3a8-602b-41b1-9a7f-02a029fae193" />
+
  Status: passou
