@@ -22,6 +22,7 @@ Resultado observado:
  
 Evidências:
 
+<img width="927" height="461" alt="user espaco" src="https://github.com/user-attachments/assets/70dec6a7-a4f1-4cc9-9ea9-ea5fea7578d8" />
 
 Observação:
 - ter um novo tipo de aviso caso esse problema aconteca, para o usuario ficar ciente do erro de digitacao q nao e permitido.
