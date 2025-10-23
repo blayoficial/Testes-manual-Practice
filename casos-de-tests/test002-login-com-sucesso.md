@@ -1,10 +1,10 @@
 ID: CT-002
-Título: Login com senha valida
+Título: Login com sucesso
 
 Pré-condições:
 - O site https://practicetestautomation.com/practice/ está aberto
 - Usuário de teste cadastrado: "student"
-- Senha incorreta: "Password123"
+- Senha correta: "Password123"
 
 Passos:
 1. Digitar usuário "student" no campo de login
