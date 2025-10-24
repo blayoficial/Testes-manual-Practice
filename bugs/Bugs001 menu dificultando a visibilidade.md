@@ -42,4 +42,7 @@ Resultado observado:
 
 Evidências:
 
+<img width="1015" height="722" alt="login011" src="https://github.com/user-attachments/assets/4807c405-6b11-4966-8e41-71506e6935cf" />
+
+
 
