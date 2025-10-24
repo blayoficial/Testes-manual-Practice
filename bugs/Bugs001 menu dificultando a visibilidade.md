@@ -1,11 +1,9 @@
 ID: BUG-001
 Título: pagina inicial manu preto
-
-Severidade: Minor         
-Prioridade: P2   
+  
 
 Descrição:
-- Ao entrar na página colocando ela em outra lingua ,todos os botões da tela inicial ficam mais pretos do que deviam ..
+- Ao entrar na página e colocando ela em outra lingua ,todos os botões do menu da tela inicial ficam mais pretos do que deviam ..
 
 Passos para reproduzir:
 1. traduzir o site.
@@ -30,3 +28,18 @@ Responsável: Blay
 Data de registro: 22/10/2025
  
 ***
+
+Titulo: mesmo bug na pagina login
+
+Descrição:
+- Ao mudar a lingua do site da tela de login os botões ficam pretos dificultando a visualizacao
+
+Passo para reproduzir:
+- Botões devem estar com estilo correto e visiveis
+
+Resultado observado:
+- Os botões ficam preto impedindo a vibilidade 
+
+Evidências:
+
+
