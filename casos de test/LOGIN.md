@@ -25,7 +25,7 @@ Resultado observado:
   <img width="725" height="388" alt="evidencia de login invalido" src="https://github.com/user-attachments/assets/59c4f748-6235-4b31-8e9b-5d944aee05eb" /> 
   
   
-Status: passou
+Status: passou ✅
 
 
 Observação: Ao ocorrer erro de login, os campos de usuário e senha não precisam ser limpos, mantendo os valores digitados pelo usuário para facilitar correção.
@@ -56,7 +56,9 @@ Resultado observado:
  
 Evidências:
 
-<img width="1343" height="549" alt="login com sucesso002" src="https://github.com/user-attachments/assets/a476a1a4-df4d-4726-a67b-fbec0833bace" /> Status: passou
+<img width="1343" height="549" alt="login com sucesso002" src="https://github.com/user-attachments/assets/a476a1a4-df4d-4726-a67b-fbec0833bace" /> 
+
+Status: passou ✅
 
 ***
 
@@ -86,7 +88,7 @@ Resultado observado:
  
  <img width="945" height="412" alt="userinvalido" src="https://github.com/user-attachments/assets/a5dbe3a8-602b-41b1-9a7f-02a029fae193" />
 
- Status: passou
+ Status: passou✅
 
  ***
 
@@ -117,7 +119,7 @@ Evidências:
 <img width="927" height="461" alt="user espaco" src="https://github.com/user-attachments/assets/70dec6a7-a4f1-4cc9-9ea9-ea5fea7578d8" />
 
 
-status:passou
+status:passou✅
 
 Observação:
 - Seria interessante exibir um aviso específico para espaços indevidos ou impedir a digitação de espaços no campo de usuário, para melhorar a experiência do usuário.
@@ -149,7 +151,7 @@ Evidências:
 
 <img width="793" height="392" alt="005" src="https://github.com/user-attachments/assets/1ae199d3-a9be-4a29-bc46-8e7b23cf68ef" />
 
-status:passou
+status:passou✅
 
 Observacão;Seria interessante ter uma mensagem especifica para esse tipo de erro tipo"voce esqueceu de preencher a sua senha"
 
@@ -182,7 +184,7 @@ Evidências:
 <img width="927" height="461" alt="user espaco" src="https://github.com/user-attachments/assets/70dec6a7-a4f1-4cc9-9ea9-ea5fea7578d8" />
 
 
-status:passou
+status:passou✅
 
 
 Observacao:Poderia exibir uma mensagem específica para login com campos vazios (ex.: “Preencha usuário e senha”) ou desabilitar o botão “Submit” enquanto os campos estiverem vazios, evitando envio inválido.
