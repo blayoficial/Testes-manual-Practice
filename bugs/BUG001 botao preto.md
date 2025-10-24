@@ -1,28 +1,28 @@
 ID: BUG-001
-Título: os botoes clicaveis pretos
+Título: pagina inicial manu preto
 
 Severidade: Minor         
 Prioridade: P2   
 
 Descrição:
-- Ao entrar na página colocando ela em outra lingua , o todos os botões clicaveis ficam pretos e sem estilo visível..
+- Ao entrar na página colocando ela em outra lingua ,todos os botões da tela inicial ficam mais pretos do que deviam ..
 
 Passos para reproduzir:
 1. traduzir o site.
 2. Abrir o site https://practicetestautomation.com/practice/
-3. clicar no local de Página de login de teste ou pagina Exceções de teste
-4. Observar o botão clicaveis ficam todos pretos 
+3. Observar o menu dificultando a visibilidade dos botões
 
 Resultado esperado:
-- Botão devem estar com estilo correto e visíveis
+- Botões devem estar com estilo correto e visíveis
 
 Resultado observado:
-- Os Botãos aparecem totalmentes pretos
+- O menu aparecem totalmentes pretos dificultando a visualizacao
 
 
 Evidências:
 
-<img width="751" height="327" alt="bug botao preto" src="https://github.com/user-attachments/assets/f35768cc-c728-4cbe-a8b9-d27cb2d4d679" />
+<img width="1558" height="634" alt="quase invisivel" src="https://github.com/user-attachments/assets/6836ed61-ddba-49ca-ba20-4d79b8243ce3" />
+
 
 
 Status: Aberto
