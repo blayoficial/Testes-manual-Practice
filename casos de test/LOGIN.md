@@ -1,4 +1,4 @@
-ID: CT-001 
+ 
 Título: Login com senha inválida 
 
 Pré-condições: 
@@ -32,7 +32,7 @@ Observação: Ao ocorrer erro de login, os campos de usuário e senha não preci
 
 ***
 
-ID: CT-002 
+ 
 Título: Login com sucesso 
 
 Pré-condições: 
@@ -90,7 +90,7 @@ Resultado observado:
 
  ***
 
- ID: CT-004
+
 Título: Login com erro de digitacão com espaco 
 
 Pré-condições: 
@@ -124,7 +124,7 @@ Observação:
 
 ***
 
-ID: CT-005 Título: Login com campos vazios
+Título: Login com campos vazios
 
 Pré-condições:
 
@@ -155,7 +155,7 @@ Observacão;Seria interessante ter uma mensagem especifica para esse tipo de err
 
 ***
 
-ID: CT-006
+
 Título: Login campo vazio 
 
 Pré-condições: 
