@@ -49,5 +49,22 @@ Evidências:
 
 ***
 
+Titulo: mesmo bug na pagina login
 
+Descrição:
+- Ao mudar a lingua do site da tela de login os botões ficam pretos dificultando a visualizacao
+
+Passo para reproduzir:
+1. Abrir o site https://practicetestautomation.com/practice/
+2. ir na pagina https://practicetestautomation.com/practice-test-exceptions/
+3. traduzir o site.
+4. observa os botões completamente pretos
+
+Resultado esperado:
+- Botões devem estar com estilo correto e visíveis
+
+Resultado observado:
+- Os botões ficam preto impedindo a vibilidade 
+
+Evidências:
 
