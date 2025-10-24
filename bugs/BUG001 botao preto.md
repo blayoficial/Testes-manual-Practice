@@ -1,22 +1,23 @@
 ID: BUG-001
-Título: Botão "Enviar" aparece totalmente preto
+Título: os botoes clicaveis pretos
 
 Severidade: Minor         
 Prioridade: P2   
 
 Descrição:
-- Ao entrar na página de login, o botão "Enviar", que deveria permitir o envio das informações, aparece todo preto e sem estilo visível..
+- Ao entrar na página colocando ela em outra lingua , o todos os botões clicaveis ficam pretos e sem estilo visível..
 
 Passos para reproduzir:
-1. Abrir o site https://practicetestautomation.com/practice/
-2. clicar no local de login
-3. Observar o botão "Enviar" que no caso não existe nome enviar, apenas um botão todo preto
+1. traduzir o site.
+2. Abrir o site https://practicetestautomation.com/practice/
+3. clicar no local de Página de login de teste ou pagina Exceções de teste
+4. Observar o botão clicaveis ficam todos pretos 
 
 Resultado esperado:
-- Botão "Enviar" deve estar com estilo correto e visível 
+- Botão devem estar com estilo correto e visíveis
 
 Resultado observado:
-- Botão aparece totalmente preto
+- Os Botãos aparecem totalmentes pretos
 
 
 Evidências:
