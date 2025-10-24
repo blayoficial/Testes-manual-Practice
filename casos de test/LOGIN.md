@@ -185,6 +185,6 @@ Evidências:
 status:passou
 
 
-Observado:Poderia exibir uma mensagem específica para login com campos vazios (ex.: “Preencha usuário e senha”) ou desabilitar o botão “Submit” enquanto os campos estiverem vazios, evitando envio inválido.
+Observacao:Poderia exibir uma mensagem específica para login com campos vazios (ex.: “Preencha usuário e senha”) ou desabilitar o botão “Submit” enquanto os campos estiverem vazios, evitando envio inválido.
 
 ***
