@@ -68,3 +68,4 @@ Resultado observado:
 
 Evidências:
 
+<img width="891" height="560" alt="BOTOES PRETOS" src="https://github.com/user-attachments/assets/976b294e-591b-49ff-b0fa-2f587faed534" />
